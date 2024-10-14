@@ -1,0 +1,1 @@
+const empRoutes = require('./emp.Routes'); // Çalışan route'ları

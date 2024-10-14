@@ -1,0 +1,1 @@
+const empRoutes = require('./routes/emp.Routes'); // emp.Routes'yi dahil ediyoruz
